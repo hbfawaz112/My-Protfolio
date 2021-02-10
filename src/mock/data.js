@@ -76,7 +76,7 @@ export const projectsData = [
       'A Desktop app developed with java (GUI-swing) for managing data of a football academy (Players , Coaches , Training and the academy balance)',
     info2: '',
     url: '',
-    repo: 'https://github.com/hbfawaz112/moodle-UL-Faculity-Of-Science', // if no repo, the button will not show up
+    repo: 'https://github.com/hbfawaz112/Football-Academies-Management-Systeme', // if no repo, the button will not show up
   },
 ];
 
