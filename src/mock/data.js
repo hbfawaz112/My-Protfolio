@@ -40,6 +40,16 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'realchat.png',
+    title: 'Realtime chat application',
+    info:
+      'A RealTime chat application developped using PHP with MySql for the backend and HTML5-CSS3-JS for the frontend with AJAX technology. This webapp contain authentication (login /signup) , a list of user with an icon represent the status of a user (online/offline) with a search form for a specific user and the chat page between 2 users in realtime.',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/hbfawaz112/Realtime-Chat-Application', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'twitter-monogoDB.png',
     title: 'Twitter Clone',
     info:
