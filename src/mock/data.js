@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I am also working with mobile development such as native android development using Java and cross platform mobile applications using flutter',
   paragraphThree: 'Also working with desktop application development with java swing and javafx',
-  resume: 'https://www.keepandshare.com/doc29/112478/hussein-b-fawaz-resume-17-02-2021-23-21-56-pdf-47k?da=y', // if no resume, the button will not show up
+  resume: 'https://www.keepandshare.com/doc29/112509/my-resume-pdf-46k?da=y', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
