@@ -40,6 +40,26 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'moodle.png',
+    title: 'Moodle ULFS',
+    info:
+      'This is a web project developed using php-mysql , it’s about 2 website one for the instructors to upload files as pdf courses, sessions, … , and one for the students that can acces to their account and download these files.',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/hbfawaz112/moodle-UL-Faculity-Of-Science', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'FORM-OF-DISCUSION.png',
+    title: 'UL-FS Form Of Discussion',
+    info:
+      'A website developed using ASP.NET MVC to let students communicate between them by asking public questions or private questions based on many factors , and reply to these questions',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/hbfawaz112/UL-FS-Form-of-Discussion-ASP.NET-MVC', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'realchat.png',
     title: 'Realtime chat application',
     info:
@@ -60,23 +80,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'moodle.png',
-    title: 'Moodle ULFS',
+    img: 'javaFX_MathGame.png',
+    title: 'Math Game Drag And Drop (JavaFX)',
     info:
-      'This is a web project developed using php-mysql , it’s about 2 website one for the instructors to upload files as pdf courses, sessions, … , and one for the students that can acces to their account and download these files.',
+      'A Desktop game developed with JavaFX containing 3 section , basic math like count objects , comparaison section , calculation section(+,-,*,/) , and basic geometrie section, made for kids',
     info2: '',
     url: '',
-    repo: 'https://github.com/hbfawaz112/moodle-UL-Faculity-Of-Science', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'FORM-OF-DISCUSION.png',
-    title: 'UL-FS Form Of Discussion',
-    info:
-      'A website developed using ASP.NET MVC to let students communicate between them by asking public questions or private questions based on many factors , and reply to these questions',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/hbfawaz112/UL-FS-Form-of-Discussion-ASP.NET-MVC', // if no repo, the button will not show up
+    repo: 'https://github.com/hbfawaz112/Javafx-MathGame-Drag-And-Drop', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
